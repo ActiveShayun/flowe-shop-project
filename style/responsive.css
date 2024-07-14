@@ -1,0 +1,137 @@
+
+/* responsive for mobile */
+
+@media screen  and (max-width: 576px){
+
+    
+    .header-section{
+        width: 96%;
+        height: 910px;
+        padding: 2%;
+        margin: 0 auto;
+        gap: 10px;
+        align-items: flex-start;
+    }
+
+    .text-container{
+        width: 95%;
+        text-align: left;
+        align-items: flex-start;
+    }
+
+    .flowe-container{
+        width: 95%;
+       height: 400px;
+    }
+    .header-container{
+        flex-direction: column;
+    }
+
+    .flowe-container img{
+        max-width: 100%;
+    }
+
+    .cantant-1{
+        width: 100%;
+    }
+    
+    .flowers-box-containers{
+           flex-direction: column;
+           margin:  0 auto;
+           gap: 10px;
+    }
+
+    .gap img{
+        width: 100%;
+    }
+
+    .gap {
+        margin-bottom: 40px;
+    }
+
+    
+.flowers-dis{
+    margin-top: 10px;
+
+}
+
+.man-logo-containers{
+    width: 96%;
+    flex-direction: column;
+}
+
+.hot-deal-container{
+    width: 96%;
+    flex-direction: column;
+    padding: 50px 0px;
+}
+
+.hot-deal-text {
+    width: 99%;
+    justify-content: flex-start;
+    flex-direction: column;
+    margin-bottom: 20px;
+    padding: 2%;
+}
+
+.hot-deal-text h3{
+    font-size: 25px;
+    font-weight: 800;
+    margin-bottom: 20px;
+
+}
+
+.hot-deal-text p{
+     margin-bottom: 20px;
+     text-align: left;
+}
+
+.ntn-con{
+    width: 100%;
+}
+
+.flowers-frame-container{
+    width: 96%;
+    margin: 0 auto;
+}
+
+.flowers-frame-child{
+    width: 98%;
+    flex-direction: column;
+}
+
+.flowers-fram{
+    margin-top: 10px;
+}
+
+.flowers-fram img{
+    margin: 0 auto;
+    display: block;
+ 
+}
+
+.subscribe-area{
+    width: 98%;
+
+}
+
+.subscribe-area input{
+    width: 95%;
+}
+
+.subscribe-area  h5{
+    font-size: 30px;
+}
+
+.subscribe-area input[type=button]{
+    margin-top: 20px;
+}
+
+.footer-section{
+    width: 96%;
+    padding: 2%;
+}
+
+
+
+}
